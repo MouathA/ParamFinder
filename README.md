@@ -40,12 +40,13 @@ java -jar ParamFinder.jar -d example.com -o output.txt
 ```sh
 java -jar ParamFinder.jar -d example.com -o output.txt -p
 ```
-
+![Screenshot_2](https://github.com/MouathA/ParamFinder/assets/103407967/21ff4a56-762d-43cc-9cb9-78df2a29c1ec)
 ## Blacklist
 
 ParamFinder skips URLs with the following extensions:
 
 ```
+
 .jpg, .jpeg, .png, .gif, .pdf, .svg, .json,
 .css, .js, .webp, .woff, .woff2, .eot, .ttf, .otf, .mp4, .txt
 ```
